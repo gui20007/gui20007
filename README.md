@@ -7,4 +7,6 @@ DOCTYPE html>
      </head>
 
      <body>
-          <
+         <header>
+             <h1 class="titulo-pricipal">Barbearia Alura</h1>
+          </header>
